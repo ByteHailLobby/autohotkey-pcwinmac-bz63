@@ -1,4 +1,4 @@
-# 
+# Novo AutoHotkey complementos para Mac OS | Nativo AutoHotkey complementos para PC Windows. Com informacoes do sistema e atualizador de drivers — otimizado para máximo desempenho em cada plataforma.
 
 
 
